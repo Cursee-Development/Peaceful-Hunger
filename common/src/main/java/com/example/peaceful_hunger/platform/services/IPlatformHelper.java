@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.example.peaceful_hunger.platform.services;
 
 public interface IPlatformHelper {
 

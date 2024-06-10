@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.example.peaceful_hunger.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.example.peaceful_hunger.Constants;
+import com.example.peaceful_hunger.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
