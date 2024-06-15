@@ -9,7 +9,7 @@ plugins {
 
 forgix {
     group = "${project.group}" // same as targetting ${group}, just not sure if expandProps occurs before this
-    mergedJarName = "${mod_id}-merged-${minecraft_version}-${version}-JASONTOMLJTEST.jar"
+    mergedJarName = "${mod_id}-merged-${minecraft_version}-${version}.jar"
     outputDir = "build/libs"
 
     custom {
