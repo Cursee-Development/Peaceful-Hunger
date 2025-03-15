@@ -5,7 +5,8 @@
   "compatibilityLevel": "JAVA_18",
   "mixins": [],
   "client": [
-    "ForgeTitleScreenMixin"
+    "ForgeFoodDataMixin",
+    "ForgePlayerMixin"
   ],
   "server": [],
   "injectors": {
