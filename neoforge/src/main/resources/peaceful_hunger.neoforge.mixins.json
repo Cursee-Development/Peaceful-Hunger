@@ -3,11 +3,11 @@
   "minVersion": "0.8",
   "package": "com.cursee.peaceful_hunger.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [],
-  "client": [
+  "mixins": [
     "NeoForgeFoodDataMixin",
     "NeoForgePlayerMixin"
   ],
+  "client": [],
   "server": [],
   "injectors": {
     "defaultRequire": 1
